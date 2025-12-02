@@ -1,4 +1,5 @@
 @use "sass:color";
+@import "variables";
 
 // Color definitions for the dark theme - don't use it with the light theme
 $btn-primary-dark:                   #007db0; // contrast ratio: 4.6 with #fff text
