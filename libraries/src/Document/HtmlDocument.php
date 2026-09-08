@@ -518,7 +518,7 @@ class HtmlDocument extends Document implements CacheControllerFactoryAwareInterf
      *
      * @return  HtmlDocument instance of $this to allow chaining
      *
-     * @since   5.4.0
+     * @since   __DEPLOY_VERSION__
      */
     public function addHeadTag($html)
     {
