@@ -62,7 +62,7 @@ class HtmlDocument extends Document implements CacheControllerFactoryAwareInterf
      * document include.
      *
      * @var    array
-     * @since  5.4.0
+     * @since  __DEPLOY_VERSION__
      */
     public $_customHead = [];
 
